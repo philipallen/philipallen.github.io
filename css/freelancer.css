@@ -45,7 +45,7 @@ hr.star-dark:after {
 }
 
 section {
-  padding: 6rem 0;
+  padding: 2rem 0 6rem 0;
 }
 
 section h2 {
@@ -198,6 +198,8 @@ header.masthead h2 {
   display: block;
   max-width: 25rem;
   margin-bottom: 15px;
+  height: 100%;
+  width: 100%;
 }
 
 .customers .customers-item .customers-item-caption {
@@ -219,9 +221,16 @@ header.masthead h2 {
   .customers {
     margin-bottom: -30px;
   }
-  .customers .customers-item {
-    margin-bottom: 30px;
-  }
+}
+
+.customer-image-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 215px;
 }
 
 .customers-modal .customers-modal-dialog {

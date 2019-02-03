@@ -6,6 +6,8 @@
     display: block;
     max-width: 25rem;
     margin-bottom: 15px;
+    height: 100%;
+    width: 100%;
     .customers-item-caption {
       -webkit-transition: all ease 0.5s;
       -moz-transition: all ease 0.5s;
@@ -23,9 +25,15 @@
   @media (min-width: 576px) {
     margin-bottom: -30px;
     .customers-item {
-      margin-bottom: 30px;
+      // margin-bottom: 30px;
     }
   }
+}
+
+.customer-image-container {
+  display: flex;
+  align-items: center;
+  height: 215px;
 }
 
 .customers-modal {
