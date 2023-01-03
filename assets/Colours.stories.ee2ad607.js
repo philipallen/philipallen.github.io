@@ -1,0 +1,12 @@
+var x=Object.defineProperty;var u=(s,e)=>x(s,"name",{value:e,configurable:!0});import{S as A,i as E,s as O,r as c,v as p,a as B,q as h,d as D,y as T,u as F,z as C,A as w,w as n}from"./index.b1c955cf.js";const S={primaryBlue:{value:"#0000FF"},teal:{value:"#00FFC5"},darkBlue:{value:"#000066"},lightBlue:{value:"#B2DBFF"},sage:{value:"#32785A"},fern:{value:"#32785A"},lime:{value:"#C4FB50"},pear:{value:"#A2CF40"},lightTeal:{value:"#357C83"},darkTeal:{value:"#1D4144"},eggshell:{value:"#52B8C2"},grey:{value:"#3C3C3C"},background:{value:"#DCDCDC"},highlightPanels:{value:"#EFEFEF"},underlines:{value:"#979797"},fieldOutline:{value:"#CCCCCC"},white:{value:"#FFFFFF"},red:{value:"#B20000"},darkGrey:{value:"#161616"}},j={color:S};function y(s,e,a){const l=s.slice();return l[1]=e[a][0],l[2]=e[a][1],l}u(y,"get_each_context");function k(s){let e,a,l=s[1]+"",o,r,t,i=s[2].value+"",_,f,v,g;return{c(){e=c("div"),a=c("div"),o=F(l),r=C(),t=c("div"),_=F(i),f=C(),v=c("div"),g=C(),p(v,"class","tile svelte-15iadmh"),w(v,"background-color",s[2].value),p(e,"class","container svelte-15iadmh")},m(d,b){B(d,e,b),n(e,a),n(a,o),n(e,r),n(e,t),n(t,_),n(e,f),n(e,v),n(e,g)},p:h,d(d){d&&D(e)}}}u(k,"create_each_block");function q(s){let e,a=Object.entries(s[0]),l=[];for(let o=0;o<a.length;o+=1)l[o]=k(y(s,a,o));return{c(){e=c("div");for(let o=0;o<l.length;o+=1)l[o].c();p(e,"class","grid svelte-15iadmh")},m(o,r){B(o,e,r);for(let t=0;t<l.length;t+=1)l[t].m(e,null)},p(o,[r]){if(r&1){a=Object.entries(o[0]);let t;for(t=0;t<a.length;t+=1){const i=y(o,a,t);l[t]?l[t].p(i,r):(l[t]=k(i),l[t].c(),l[t].m(e,null))}for(;t<l.length;t+=1)l[t].d(1);l.length=a.length}},i:h,o:h,d(o){o&&D(e),T(l,o)}}}u(q,"create_fragment");function L(s){return[j.color]}u(L,"instance");class m extends A{constructor(e){super(),E(this,e,L,q,O,{})}}u(m,"Colours$1");m.__docgen={version:3,name:"Colours.svelte",data:[],computed:[],methods:[],components:[],description:null,keywords:[],events:[],slots:[],refs:[]};const G={parameters:{storySource:{source:`import ColoursComponent from "./Colours.svelte";
+
+export default {
+  title: "Tokens/Colours",
+};
+
+export const Colours = (args) => ({
+  Component: ColoursComponent,
+  props: args,
+});
+`,locationsMap:{colours:{startLoc:{col:23,line:7},endLoc:{col:2,line:10},startBody:{col:23,line:7},endBody:{col:2,line:10}}}}},title:"Tokens/Colours"},M=u(s=>({Component:m,props:s}),"Colours"),P=["Colours"];export{M as Colours,P as __namedExportsOrder,G as default};
+//# sourceMappingURL=Colours.stories.ee2ad607.js.map
