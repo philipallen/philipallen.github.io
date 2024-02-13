@@ -1,0 +1,10 @@
+import{j as B}from"./index-144fe590.js";import{a as E}from"./index-583b5bb5.js";import{C as i}from"./Checkbox-2e60bda7.js";import{m as t,B as D,D as O,W as R,a as L}from"./Radio.stories-c774809b.js";const{useArgs:M}=__STORYBOOK_MODULE_CLIENT_API__,j={...t,title:"Inputs/Checkbox",component:i,render:function(T){const[,x]=M();function y(c){x({checked:c.target.checked}),E("onChange")(c)}return B.jsx(i,{...T,onChange:y})},argTypes:{...t.argTypes,isIndeterminate:{control:"boolean"}},args:{...t.args,isIndeterminate:!1}},e=D,r=O,a=R,s=L,o={...e,args:{isIndeterminate:!0,labelProps:{label:"Try Me!","aria-label":"Try Me!"}}};var n,m,d;e.parameters={...e.parameters,docs:{...(n=e.parameters)==null?void 0:n.docs,source:{originalSource:"RadioStories.Basic",...(d=(m=e.parameters)==null?void 0:m.docs)==null?void 0:d.source}}};var l,p,u;r.parameters={...r.parameters,docs:{...(l=r.parameters)==null?void 0:l.docs,source:{originalSource:"RadioStories.Disabled",...(u=(p=r.parameters)==null?void 0:p.docs)==null?void 0:u.source}}};var b,g,h;a.parameters={...a.parameters,docs:{...(b=a.parameters)==null?void 0:b.docs,source:{originalSource:"RadioStories.WithLabel",...(h=(g=a.parameters)==null?void 0:g.docs)==null?void 0:h.source}}};var S,_,f;s.parameters={...s.parameters,docs:{...(S=s.parameters)==null?void 0:S.docs,source:{originalSource:"RadioStories.WithError",...(f=(_=s.parameters)==null?void 0:_.docs)==null?void 0:f.source}}};var I,W,C;o.parameters={...o.parameters,docs:{...(I=o.parameters)==null?void 0:I.docs,source:{originalSource:`{
+  ...Basic,
+  args: {
+    isIndeterminate: true,
+    labelProps: {
+      label: "Try Me!",
+      "aria-label": "Try Me!"
+    }
+  }
+}`,...(C=(W=o.parameters)==null?void 0:W.docs)==null?void 0:C.source}}};const k=["Basic","Disabled","WithLabel","WithError","Indeterminate"],N=Object.freeze(Object.defineProperty({__proto__:null,Basic:e,Disabled:r,Indeterminate:o,WithError:s,WithLabel:a,__namedExportsOrder:k,default:j},Symbol.toStringTag,{value:"Module"}));export{e as B,N as C,r as D,o as I,a as W,s as a};
