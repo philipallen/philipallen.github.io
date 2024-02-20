@@ -1,1 +1,0 @@
-var l=["primary","primaryAlt","secondary","secondaryAlt"],a=["displayXL","displayL","displayM","displayS","headlineL","headlineM","headlineS","headlineXS"],e=["titleL","titleM","titleS","titleXS","bodyL","bodyM","bodyS","labelM","labelS"],A=[...a,...e],S=["OpenSansBold","OpenSansSemiBold","OpenSansSemiBoldItalic"];export{l as B,e as T,S as a,A as b};
