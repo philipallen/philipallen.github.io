@@ -1,0 +1,5 @@
+import{j as o}from"./jsx-runtime-6eef64cc.js";import{M as e,C as s}from"./index-d7143317.js";import{T as p,B as m,P as a}from"./Tooltip.stories-af580e9b.js";import{u as i}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-99282e1b.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./doctrine-fe9e14af.js";import"./index-356e4a49.js";import"./index-f9a152de.js";import"./floating-ui.react-06582175.js";import"./index-2b4c4340.js";import"./Button-5cb0e456.js";import"./Typography-2ed3318f.js";function n(t){const r=Object.assign({h1:"h1",p:"p"},i(),t.components);return o.jsxs(o.Fragment,{children:[o.jsx(e,{of:p}),`
+`,o.jsx(r.h1,{id:"tooltip",children:"Tooltip"}),`
+`,o.jsx(r.p,{children:"These docs are work in progress"}),`
+`,o.jsx(s,{of:m}),`
+`,o.jsx(s,{of:a})]})}function B(t={}){const{wrapper:r}=Object.assign({},i(),t.components);return r?o.jsx(r,Object.assign({},t,{children:o.jsx(n,t)})):n(t)}export{B as default};

@@ -1,4 +1,0 @@
-import{j as n}from"./index-74fe31d7.js";import{M as e,C as i}from"./index-abec07f5.js";import{S as m,B as p}from"./Spinner.stories-1a944730.js";import{u as s}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-6c3687eb.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./doctrine-fe9e14af.js";import"./index-356e4a49.js";import"./index-219738ab.js";function r(t){const o=Object.assign({h1:"h1",p:"p"},s(),t.components);return n.jsxs(n.Fragment,{children:[n.jsx(e,{of:m}),`
-`,n.jsx(o.h1,{id:"spinner",children:"Spinner"}),`
-`,n.jsx(o.p,{children:"These docs are work in progress"}),`
-`,n.jsx(i,{of:p})]})}function b(t={}){const{wrapper:o}=Object.assign({},s(),t.components);return o?n.jsx(o,Object.assign({},t,{children:n.jsx(r,t)})):r(t)}export{b as default};

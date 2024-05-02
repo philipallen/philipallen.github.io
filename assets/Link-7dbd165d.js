@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-6eef64cc.js";import{M as i,C as e}from"./index-d7143317.js";import{L as m,B as p}from"./Link.stories-a5e9a595.js";import{u as s}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-99282e1b.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./doctrine-fe9e14af.js";import"./index-356e4a49.js";import"./index-2b4c4340.js";import"./Typography-2ed3318f.js";import"./index-f9a152de.js";import"./LinkBase-3e4249b4.js";function r(o){const n=Object.assign({h1:"h1",p:"p"},s(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(i,{of:m}),`
+`,t.jsx(n.h1,{id:"link",children:"Link"}),`
+`,t.jsx(n.p,{children:"These docs are work in progress"}),`
+`,t.jsx(e,{of:p})]})}function O(o={}){const{wrapper:n}=Object.assign({},s(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(r,o)})):r(o)}export{O as default};
