@@ -154,5 +154,5 @@ To pass a single animation please supply them in simple values, e.g. animation('
   *:after {
     box-sizing: border-box;
   }
-`;function Ho(e){return e==="boi"?jo:e==="boiKids"?jn:jo}var{light:{color:Q}}=Ho("boi"),$o=Dt({base:"light",brandImage:"./boi_totem.svg",colorSecondary:Q.digitalBlue,textColor:Q.darkGrey,fontBase:"OpenSans-Regular",appBg:Q.white,appContentBg:Q.white,appPreviewBg:Q.groundGrey,barTextColor:Q.mediumGrey,barSelectedColor:Q.digitalBlue,barBg:Q.white});nr.setConfig({theme:$o});})();
+`;function Ho(e){return e==="boi"?jo:e==="boiKids"?jn:jo}var{light:{color:Q}}=Ho("boi"),$o=Dt({base:"light",brandImage:"./boi_totem.svg",colorSecondary:Q.digitalBlue,textColor:Q.darkGrey,fontBase:"OpenSans-Regular",appBg:Q.white,appContentBg:Q.white,appPreviewBg:Q.groundGrey,barTextColor:Q.mediumGrey,barSelectedColor:Q.digitalBlue,barBg:Q.white});nr.setConfig({theme:$o,toolbar:{"storybook/background":{hidden:!0}}});})();
 }catch(e){ console.error("[Storybook] One of your manager-entries failed: " + import.meta.url, e); }
