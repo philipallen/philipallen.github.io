@@ -1,5 +1,0 @@
-import{j as o}from"./jsx-runtime-6eef64cc.js";import{u as s}from"./index-2d8ea55a.js";import{M as e,C as n}from"./index-9dd8f5d7.js";import{A as m,B as p,N as c}from"./AccordionGroup.stories-e31cf6a5.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-1372df2f.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./index-8c3ac41d.js";import"./index-bce99968.js";import"./index-356e4a49.js";import"./index-912b60f4.js";import"./Accordion-edde66cf.js";import"./index-71d43b47.js";import"./Typography-a205704a.js";import"./index-7321e5ed.js";function i(r){const t={h1:"h1",p:"p",...s(),...r.components};return o.jsxs(o.Fragment,{children:[o.jsx(e,{of:m}),`
-`,o.jsx(t.h1,{id:"accordiongroup",children:"AccordionGroup"}),`
-`,o.jsx(t.p,{children:"These docs are work in progress"}),`
-`,o.jsx(n,{of:p}),`
-`,o.jsx(n,{of:c})]})}function _(r={}){const{wrapper:t}={...s(),...r.components};return t?o.jsx(t,{...r,children:o.jsx(i,{...r})}):i(r)}export{_ as default};

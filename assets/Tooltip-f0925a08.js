@@ -1,0 +1,5 @@
+import{j as o}from"./jsx-runtime-6eef64cc.js";import{u as p}from"./index-2d8ea55a.js";import{M as s,C as i}from"./index-12054c48.js";import{T as m,B as e,P as a}from"./Tooltip.stories-57080114.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-126a13e8.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./index-8c3ac41d.js";import"./index-bce99968.js";import"./index-356e4a49.js";import"./index-f15beae1.js";import"./floating-ui.react-06582175.js";import"./index-912b60f4.js";import"./Button-ca5da169.js";import"./Typography-7961d08c.js";import"./Spinner-85521093.js";function n(t){const r={h1:"h1",p:"p",...p(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:m}),`
+`,o.jsx(r.h1,{id:"tooltip",children:"Tooltip"}),`
+`,o.jsx(r.p,{children:"These docs are work in progress"}),`
+`,o.jsx(i,{of:e}),`
+`,o.jsx(i,{of:a})]})}function v(t={}){const{wrapper:r}={...p(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(n,{...t})}):n(t)}export{v as default};

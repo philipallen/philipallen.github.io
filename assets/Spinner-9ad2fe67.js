@@ -1,4 +1,0 @@
-import{j as o}from"./jsx-runtime-6eef64cc.js";import{u as i}from"./index-2d8ea55a.js";import{M as e,C as s}from"./index-9dd8f5d7.js";import{S as m,B as p}from"./Spinner.stories-9e9ddee6.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-1372df2f.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./index-8c3ac41d.js";import"./index-bce99968.js";import"./index-356e4a49.js";import"./index-912b60f4.js";import"./index-aa3a2926.js";import"./Spinner-85521093.js";function n(r){const t={h1:"h1",p:"p",...i(),...r.components};return o.jsxs(o.Fragment,{children:[o.jsx(e,{of:m}),`
-`,o.jsx(t.h1,{id:"spinner",children:"Spinner"}),`
-`,o.jsx(t.p,{children:"These docs are work in progress"}),`
-`,o.jsx(s,{of:p})]})}function B(r={}){const{wrapper:t}={...i(),...r.components};return t?o.jsx(t,{...r,children:o.jsx(n,{...r})}):n(r)}export{B as default};
