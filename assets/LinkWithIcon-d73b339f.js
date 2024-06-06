@@ -1,5 +1,0 @@
-import{j as o}from"./jsx-runtime-6eef64cc.js";import{u as m}from"./index-2d8ea55a.js";import{M as s,C as r}from"./index-2f92432b.js";import{L as e,S as p,E as a}from"./LinkWithIcon.stories-7f1bda71.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-f8fbca09.js";import"../sb-preview/runtime.js";import"./index-cda6679a.js";import"./extends-98964cd2.js";import"./index-8c3ac41d.js";import"./index-bce99968.js";import"./index-356e4a49.js";import"./index-fc1df4e3.js";import"./index-aa3a2926.js";import"./index-40766bf6.js";import"./Typography-ff2e0ce1.js";import"./index-f15beae1.js";import"./LinkBase-55375781.js";function i(t){const n={h1:"h1",p:"p",...m(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:e}),`
-`,o.jsx(n.h1,{id:"linkwithicon",children:"LinkWithIcon"}),`
-`,o.jsx(n.p,{children:"These docs are work in progress"}),`
-`,o.jsx(r,{of:p}),`
-`,o.jsx(r,{of:a})]})}function W(t={}){const{wrapper:n}={...m(),...t.components};return n?o.jsx(n,{...t,children:o.jsx(i,{...t})}):i(t)}export{W as default};
