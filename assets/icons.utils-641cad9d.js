@@ -1,0 +1,1 @@
+import{I as o}from"./index-b1778622.js";const{ErrorIcon:n,InfoIcon:c,SuccessIcon:r,WarningIcon:s,SliderHandleIcon:I,...t}=o,d={ErrorIcon:n,InfoIcon:c,SuccessIcon:r,WarningIcon:s,SliderHandleIcon:I};export{d as M,t as S};
