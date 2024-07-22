@@ -1,5 +1,0 @@
-import{j as o}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as n}from"./index-COxJNofV.js";import{M as p,C as s,d as e}from"./index-WzBxulck.js";import{R as a,B as i}from"./RadioGroup.stories-CzZIUQ8B.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-D0n2XJxZ.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-Cnk2rnxF.js";import"./Fieldset-7VzN1Ms4.js";import"./index-CWEVnOcG.js";import"./Typography-BayW6epx.js";import"./index-Cee7vv5h.js";import"./Radio-yfomx25P.js";import"./InputAlert-PchpsvMy.js";import"./index-ef8Z-xiF.js";import"./InputLabelRight-BRPMLSy7.js";function m(t){const r={h1:"h1",h2:"h2",...n(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(p,{of:a}),`
-`,o.jsx(r.h1,{id:"radiogroup",children:"RadioGroup"}),`
-`,o.jsx(r.h2,{id:"properties",children:"Properties"}),`
-`,o.jsx(s,{of:i}),`
-`,o.jsx(e,{of:i})]})}function L(t={}){const{wrapper:r}={...n(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(m,{...t})}):m(t)}export{L as default};
