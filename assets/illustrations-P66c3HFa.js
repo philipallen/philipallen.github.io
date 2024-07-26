@@ -1,7 +1,0 @@
-import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as n}from"./index-COxJNofV.js";import{M as e,C as m,d as p}from"./index-C0hjwx6E.js";import{I as a,B as i}from"./illustrations.stories-DprsLK7A.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-ONVFCf-9.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-DCR-OBjd.js";import"./index-DV25BMnf.js";import"./index-BW2nVlX_.js";import"./index-ef8Z-xiF.js";import"./floating-ui.react-BezaurJz.js";import"./Button-D-U0fkv9.js";import"./utils-DMjC9_eM.js";import"./useFocusable-C8W1vPXm.js";import"./useFocusWithin-DtMhJA8W.js";import"./axe-DUGt_Sqm.js";import"./react-textarea-autosize.browser.esm-Dr6hbtpk.js";import"./objectWithoutPropertiesLoose-gpp6Tpz-.js";function s(r){const o={h1:"h1",h2:"h2",p:"p",...n(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:a}),`
-`,t.jsx(o.h1,{id:"illustrations",children:"Illustrations"}),`
-`,t.jsx(o.h2,{id:"how-to-use",children:"How to use"}),`
-`,t.jsx("a",{href:"./?path=/docs/developer-docs-react-illustrations--docs",className:"boi-mdx-link",children:t.jsx(o.p,{children:"How to install react-illustrations"})}),`
-`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
-`,t.jsx(m,{of:i}),`
-`,t.jsx(p,{of:i})]})}function N(r={}){const{wrapper:o}={...n(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(s,{...r})}):s(r)}export{N as default};
