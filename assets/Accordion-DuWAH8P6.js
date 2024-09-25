@@ -1,0 +1,5 @@
+import{j as o}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as m}from"./index-COxJNofV.js";import{M as s,C as e,d as p}from"./index-EYVyqHK1.js";import{A as c,B as n}from"./Accordion.stories-DH53G2F4.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CSloUri9.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-DgS1v8YF.js";import"./Accordion-B-EaUs5b.js";import"./index-D3TaQYms.js";import"./index-BFYe-czB.js";import"./Typography-squJd_7u.js";function i(t){const r={h1:"h1",h2:"h2",...m(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:c}),`
+`,o.jsx(r.h1,{id:"accordion",children:"Accordion"}),`
+`,o.jsx(r.h2,{id:"properties",children:"Properties"}),`
+`,o.jsx(e,{of:n}),`
+`,o.jsx(p,{of:n})]})}function y(t={}){const{wrapper:r}={...m(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(i,{...t})}):i(t)}export{y as default};

@@ -1,5 +1,0 @@
-import{j as o}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as n}from"./index-COxJNofV.js";import{M as e,C as s,d as p}from"./index-Bh9NnRX_.js";import{A as a,B as i}from"./AlertModal.stories-CYU7ejBm.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-OoFsiUG9.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./Modal-CydmzXwy.js";import"./v4-CQkTLCs1.js";import"./floating-ui.react-BezaurJz.js";import"./index-jNFq1OWt.js";import"./index-BGt6MgUo.js";import"./index-M-g1GIMf.js";import"./Typography-D5AcRl6x.js";import"./Button-A4XDzPNF.js";import"./Spinner-D0HtF8Uc.js";function m(t){const r={h1:"h1",h2:"h2",...n(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(e,{of:a}),`
-`,o.jsx(r.h1,{id:"alertmodal",children:"AlertModal"}),`
-`,o.jsx(r.h2,{id:"properties",children:"Properties"}),`
-`,o.jsx(s,{of:i}),`
-`,o.jsx(p,{of:i})]})}function P(t={}){const{wrapper:r}={...n(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(m,{...t})}):m(t)}export{P as default};
