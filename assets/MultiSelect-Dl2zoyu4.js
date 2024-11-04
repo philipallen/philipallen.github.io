@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as e}from"./index-COxJNofV.js";import{M as p,C as i,d as s}from"./index-DW4sCKsy.js";import{M as a,B as m,W as h}from"./MultiSelect.stories-vATZhrUs.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CPtxCrxA.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-Cnk2rnxF.js";import"./index-C3m9D1_L.js";import"./SelectBase-CSBg8IDD.js";import"./objectWithoutPropertiesLoose-gpp6Tpz-.js";import"./index-CpCSUgdU.js";import"./index-C-LSVLXB.js";import"./index-COlUQA8Q.js";import"./floating-ui.react-C2UAdtMt.js";import"./ScrollShadowContainer-E3nAUgKQ.js";import"./InputWrapper-BBNW5EV4.js";import"./InlineAlert-ClCuOmc7.js";import"./Typography-DPnR7vBA.js";import"./InputLabelTop-66FkqMIr.js";import"./InputLabelTopBase-DlupMdBP.js";import"./TooltipTrigger-B4AXIaMu.js";import"./OverlayContext-0eIRNS6h.js";import"./CheckboxBase-efhi1A2V.js";function n(o){const r={h1:"h1",h2:"h2",h3:"h3",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
+`,t.jsx(r.h1,{id:"multiselect",children:"MultiSelect"}),`
+`,t.jsx(r.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:m}),`
+`,t.jsx(s,{of:m}),`
+`,t.jsx(r.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(r.h3,{id:"with-error",children:"With error"}),`
+`,t.jsx(i,{of:h})]})}function G(o={}){const{wrapper:r}={...e(),...o.components};return r?t.jsx(r,{...o,children:t.jsx(n,{...o})}):n(o)}export{G as default};

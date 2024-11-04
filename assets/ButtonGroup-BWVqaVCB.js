@@ -1,0 +1,5 @@
+import{j as o}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as m}from"./index-COxJNofV.js";import{M as s,C as p,d as e}from"./index-DW4sCKsy.js";import{B as a,a as n}from"./ButtonGroup.stories-CDs0ZRgC.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CPtxCrxA.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-Cnk2rnxF.js";import"./index-C3m9D1_L.js";import"./index-C-LSVLXB.js";import"./Typography-DPnR7vBA.js";import"./VisuallyHidden-KFGkQyAi.js";import"./useFocusWithin-DtMhJA8W.js";function i(t){const r={h1:"h1",h2:"h2",...m(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:a}),`
+`,o.jsx(r.h1,{id:"buttongroup",children:"ButtonGroup"}),`
+`,o.jsx(r.h2,{id:"properties",children:"Properties"}),`
+`,o.jsx(p,{of:n}),`
+`,o.jsx(e,{of:n})]})}function y(t={}){const{wrapper:r}={...m(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(i,{...t})}):i(t)}export{y as default};

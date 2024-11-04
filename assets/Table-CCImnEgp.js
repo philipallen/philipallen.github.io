@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as p}from"./index-COxJNofV.js";import{M as s,C as i,d as e}from"./index-DW4sCKsy.js";import{T as a,B as m,W as h}from"./Table.stories-2xtvKFli.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CPtxCrxA.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-C-LSVLXB.js";import"./Typography-DPnR7vBA.js";import"./index-C3m9D1_L.js";import"./TabPanels-NELPSoAq.js";import"./Tabs.utils-MQt-APGj.js";import"./VisuallyHidden-KFGkQyAi.js";import"./useFocusWithin-DtMhJA8W.js";import"./Select-Ba5-jlF2.js";import"./SelectBase-CSBg8IDD.js";import"./objectWithoutPropertiesLoose-gpp6Tpz-.js";import"./index-CpCSUgdU.js";import"./index-COlUQA8Q.js";import"./floating-ui.react-C2UAdtMt.js";import"./ScrollShadowContainer-E3nAUgKQ.js";import"./InputWrapper-BBNW5EV4.js";import"./InlineAlert-ClCuOmc7.js";import"./InputLabelTop-66FkqMIr.js";import"./InputLabelTopBase-DlupMdBP.js";import"./TooltipTrigger-B4AXIaMu.js";import"./OverlayContext-0eIRNS6h.js";function n(r){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:a}),`
+`,t.jsx(o.h1,{id:"table",children:"Table"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:m}),`
+`,t.jsx(e,{of:m}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-tabs",children:"With tabs"}),`
+`,t.jsx(i,{of:h})]})}function I(r={}){const{wrapper:o}={...p(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(n,{...r})}):n(r)}export{I as default};
