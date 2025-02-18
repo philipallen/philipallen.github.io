@@ -1,0 +1,5 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as e}from"./index-COxJNofV.js";import{M as m,C as s,d as p}from"./index-BjSWr0wt.js";import{I as a,B as n}from"./InlineAlert.stories-B1pHCqCn.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DQL38U2H.js";import"../sb-preview/runtime.js";import"./index-D9uilScg.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-1pQtRAy1.js";import"./InlineAlert-DF99-eWe.js";import"./index-Bl852yH3.js";import"./index-CzvSJj6w.js";import"./Typography-Dt8pkH_V.js";function i(o){const r={h1:"h1",h2:"h2",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(m,{of:a}),`
+`,t.jsx(r.h1,{id:"inlinealert",children:"InlineAlert"}),`
+`,t.jsx(r.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(s,{of:n}),`
+`,t.jsx(p,{of:n})]})}function w(o={}){const{wrapper:r}={...e(),...o.components};return r?t.jsx(r,{...o,children:t.jsx(i,{...o})}):i(o)}export{w as default};

@@ -1,8 +1,0 @@
-import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as p}from"./index-COxJNofV.js";import{M as s,C as i,d as e}from"./index-rUyKbrOa.js";import{T as a,B as m,W as h}from"./Table.stories-q77MP0uE.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-cZDWrRLx.js";import"../sb-preview/runtime.js";import"./index-5Gu-hNp0.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-CtBUti8q.js";import"./Typography-v4_88_aK.js";import"./index-DKJt7waT.js";import"./TabPanels-DqXeds_c.js";import"./Tabs.utils-1Cl19AkY.js";import"./VisuallyHidden-KFGkQyAi.js";import"./useFocusWithin-DtMhJA8W.js";import"./Select-BaZ__m-z.js";import"./downshift.esm-BloPLloy.js";import"./objectWithoutPropertiesLoose-gpp6Tpz-.js";import"./index-CpCSUgdU.js";import"./index-Bkh50RYL.js";import"./SelectBase-Db26aECa.js";import"./floating-ui.react-C2UAdtMt.js";import"./ScrollShadowContainer-F3QY9P2s.js";import"./AlertAssociationProps-x_hs0fx1.js";import"./InlineAlert-uKr_Jbz9.js";import"./InputLabelTop-CsiLVEXO.js";import"./InputLabelTopBase-ew-3EjDV.js";import"./TooltipTrigger-DRvUfcGg.js";import"./OverlayContext-0eIRNS6h.js";function n(r){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:a}),`
-`,t.jsx(o.h1,{id:"table",children:"Table"}),`
-`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
-`,t.jsx(i,{of:m}),`
-`,t.jsx(e,{of:m}),`
-`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
-`,t.jsx(o.h3,{id:"with-tabs",children:"With tabs"}),`
-`,t.jsx(i,{of:h})]})}function J(r={}){const{wrapper:o}={...p(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(n,{...r})}):n(r)}export{J as default};

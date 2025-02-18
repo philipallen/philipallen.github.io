@@ -1,0 +1,1 @@
+const d=(...r)=>r.filter(i=>i).join(" ")||void 0,n=(r,i,a)=>{var e;const s=((e=i.alertProps)==null?void 0:e.severity)==="error",t=i.alertProps&&r,o=i["aria-describedby"];return{"aria-describedby":d(t,o,a),"aria-invalid":s?"true":void 0}};export{n as b};
