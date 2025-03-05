@@ -1,8 +1,0 @@
-import{j as o}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as p}from"./index-COxJNofV.js";import{M as s,C as i,d as e}from"./index-BjSWr0wt.js";import{A as a,B as n,N as c}from"./AccordionGroup.stories-CQIUcuU0.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DQL38U2H.js";import"../sb-preview/runtime.js";import"./index-D9uilScg.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-CzvSJj6w.js";import"./Disclosure-C1XsITdO.js";import"./Button-Dm6TiVPZ.js";import"./useFocusRing-8RL9AhDF.js";import"./useFocusWithin-D15f1-3B.js";import"./chain-Crd5RmWG.js";import"./focusSafely-CjmyL4wt.js";import"./platform-Dbfj6p2q.js";import"./LiveAnnouncer-CeCcBDbP.js";import"./useFocusable-bM5OvyXg.js";import"./useKeyboard-BZGC9FVW.js";import"./usePress-BnN3djkX.js";import"./useEvent-Ck1tIt86.js";import"./useControlledState-BSXamw7l.js";import"./Accordion-B-R8DFKI.js";import"./index-1pQtRAy1.js";import"./index-Bl852yH3.js";import"./Typography-Dt8pkH_V.js";function m(t){const r={h1:"h1",h2:"h2",h3:"h3",...p(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:a}),`
-`,o.jsx(r.h1,{id:"accordiongroup",children:"AccordionGroup"}),`
-`,o.jsx(r.h2,{id:"properties",children:"Properties"}),`
-`,o.jsx(i,{of:n}),`
-`,o.jsx(e,{of:n}),`
-`,o.jsx(r.h2,{id:"variants",children:"Variants"}),`
-`,o.jsx(r.h3,{id:"nested",children:"Nested"}),`
-`,o.jsx(i,{of:c})]})}function H(t={}){const{wrapper:r}={...p(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(m,{...t})}):m(t)}export{H as default};

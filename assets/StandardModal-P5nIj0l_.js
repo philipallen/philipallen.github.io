@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as p}from"./index-COxJNofV.js";import{M as s,C as i,d as e}from"./index-BqLZ-93Z.js";import{S as a,B as n,L as d}from"./StandardModal.stories-B6gnk8-N.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-Bg4q0iye.js";import"../sb-preview/runtime.js";import"./index-D9uilScg.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./chunk-WFFRPTHA-LPjJ2Zra.js";import"./v4-CQkTLCs1.js";import"./index-BrtwDHqb.js";import"./index-CzvSJj6w.js";import"./index-BYwLR37K.js";import"./Modal-BQIbOlDl.js";import"./OverlayContext-0eIRNS6h.js";import"./usePreventScroll-CKj8bhYo.js";import"./chain-Crd5RmWG.js";import"./getScrollParent-BL0kfGii.js";import"./isScrollable-BSEN4xi5.js";import"./platform-kF5l1-53.js";import"./IconButton-BeRO6QHM.js";import"./Typography-RMDmhaRB.js";import"./ScrollShadowContainer-5PBttQuR.js";import"./Button-Bah0dgkQ.js";import"./Spinner-DKaTyvrv.js";function m(r){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:a}),`
+`,t.jsx(o.h1,{id:"standardmodal",children:"StandardModal"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:n}),`
+`,t.jsx(e,{of:n}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-long-content",children:"With Long Content"}),`
+`,t.jsx(i,{of:d})]})}function G(r={}){const{wrapper:o}={...p(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(m,{...r})}):m(r)}export{G as default};
