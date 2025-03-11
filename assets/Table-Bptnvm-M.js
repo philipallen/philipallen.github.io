@@ -1,0 +1,5 @@
+import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as e}from"./index-COxJNofV.js";import{M as s,C as m,d as p}from"./index-BqLZ-93Z.js";import{T as a,B as n}from"./Table.stories-CFsi8Sno.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-Bg4q0iye.js";import"../sb-preview/runtime.js";import"./index-D9uilScg.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./Table.constants-B84LDBq9.js";import"./index-CzvSJj6w.js";import"./Typography-RMDmhaRB.js";import"./index-BrtwDHqb.js";function i(o){const r={h1:"h1",h2:"h2",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:a}),`
+`,t.jsx(r.h1,{id:"table",children:"Table"}),`
+`,t.jsx(r.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(m,{of:n}),`
+`,t.jsx(p,{of:n})]})}function v(o={}){const{wrapper:r}={...e(),...o.components};return r?t.jsx(r,{...o,children:t.jsx(i,{...o})}):i(o)}export{v as default};
