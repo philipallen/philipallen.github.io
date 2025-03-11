@@ -1,8 +1,0 @@
-import{j as t}from"./jsx-runtime-DQ32znRX.js";import{useMDXComponents as p}from"./index-COxJNofV.js";import{M as e,C as i,d as s}from"./index-CniIxoTV.js";import{M as a,B as m,W as h}from"./MultiSelect.stories-CFnuOXiB.js";import"./index-DH5ua8nC.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DDeCBJAl.js";import"../sb-preview/runtime.js";import"./index-D9uilScg.js";import"./index-DXimoRZY.js";import"./extends-CF3RwP-h.js";import"./doctrine-DmI4-aq3.js";import"./index-DrFu-skq.js";import"./index-Cnk2rnxF.js";import"./index-BrtwDHqb.js";import"./Select.constants-zwiRAwGS.js";import"./objectWithoutPropertiesLoose-gpp6Tpz-.js";import"./index-CpCSUgdU.js";import"./index-CzvSJj6w.js";import"./InputWrapper-C7of_464.js";import"./InlineAlert-D3r_vEqv.js";import"./index-BYwLR37K.js";import"./Typography-RMDmhaRB.js";import"./InputLabelTop-C-3-u6fK.js";import"./InputLabelTopTooltip-40kjXVl7.js";import"./TooltipTrigger-CB3j4BZA.js";import"./floating-ui.react-Bc49jMsR.js";import"./OverlayContext-0eIRNS6h.js";import"./SelectBase-fhqRzdAD.js";import"./ScrollShadowContainer-5PBttQuR.js";import"./CheckboxBase-Bg6oUyk6.js";import"./AlertAssociationProps-C5Idu2_l.js";function n(o){const r={h1:"h1",h2:"h2",h3:"h3",...p(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:a}),`
-`,t.jsx(r.h1,{id:"multiselect",children:"MultiSelect"}),`
-`,t.jsx(r.h2,{id:"properties",children:"Properties"}),`
-`,t.jsx(i,{of:m}),`
-`,t.jsx(s,{of:m}),`
-`,t.jsx(r.h2,{id:"variants",children:"Variants"}),`
-`,t.jsx(r.h3,{id:"with-error",children:"With error"}),`
-`,t.jsx(i,{of:h})]})}function I(o={}){const{wrapper:r}={...p(),...o.components};return r?t.jsx(r,{...o,children:t.jsx(n,{...o})}):n(o)}export{I as default};
