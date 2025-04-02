@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-BkBIjjFT.js";import{useMDXComponents as e}from"./index-CNwVr1BN.js";import{M as p,C as i,a as s}from"./index-BocHJ2yc.js";import{M as a,B as m,P as c}from"./Menu.stories-BdD8uT1u.js";import"./index-KmaxkdDD.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DZ7LQs7D.js";import"./index-CVhlOzZO.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-DYe-GrfV.js";import"./Menu-Ikzm_syj.js";import"./floating-ui.react-DZDdj-Od.js";import"./Collection-ZvNUfI9p.js";import"./useHover-DDDaVluF.js";import"./platform-kF5l1-53.js";import"./chain-Z-ySmOka.js";import"./utils-l5KLAjAw.js";import"./usePress-D8-PWMl6.js";import"./useEvent-B95XB3Pl.js";import"./scrollIntoView-JLfw0xOA.js";import"./isScrollable-BSEN4xi5.js";import"./FocusScope-um4QTQqo.js";import"./context-CQmu07jL.js";import"./useControlledState-BCPvzKxG.js";import"./index-ByEiyUmp.js";import"./Menu-NFXRKHzP.js";import"./Separator-CKTcrEJv.js";import"./useOverlayTriggerState-BVShW717.js";import"./Text-DsbvCy5R.js";import"./OverlayContext-CQkNAI0D.js";import"./ScrollShadowContainer-CrezkSh-.js";function n(r){const o={h1:"h1",h2:"h2",h3:"h3",...e(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
+`,t.jsx(o.h1,{id:"menu",children:"Menu"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:m}),`
+`,t.jsx(s,{of:m}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"placement-left",children:"Placement left"}),`
+`,t.jsx(i,{of:c})]})}function J(r={}){const{wrapper:o}={...e(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(n,{...r})}):n(r)}export{J as default};
