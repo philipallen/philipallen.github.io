@@ -1,0 +1,10 @@
+import{j as t}from"./jsx-runtime-BkBIjjFT.js";import{useMDXComponents as p}from"./index-CNwVr1BN.js";import{M as e,C as r,a as s}from"./index-DZWw-oSY.js";import{I as a,B as m,W as c,P as h}from"./IconButtonMenu.stories-Cp_XRFo_.js";import"./index-KmaxkdDD.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DfoUYMy6.js";import"./index-Ccpfuzew.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-BDdHs4nI.js";import"./index-By1nkff0.js";import"./index-CFGjHfra.js";import"./Menu-Bbi0xzMW.js";import"./floating-ui.react-CUiYS8XL.js";import"./Collection-BJBX1VXz.js";import"./Label-D5Kag7W1.js";import"./utils-gyFJKyBV.js";import"./useFocusRing-ByLANK_J.js";import"./platform-COItUIJl.js";import"./usePress-C3z6nG1y.js";import"./useEvent-CS_6-_h7.js";import"./scrollIntoView-DVwMkJKD.js";import"./isScrollable-BSEN4xi5.js";import"./FocusScope-DVP7JJNc.js";import"./useNumberFormatter-CsjwgOH6.js";import"./useControlledState-BCPvzKxG.js";import"./Menu-B4rPCnWw.js";import"./Separator-BQWB5PMu.js";import"./Dialog-hSn_xMF0.js";import"./Button-BCrc0Htn.js";import"./ProgressBar-D7cUUrB_.js";import"./filterDOMProps-CeZl_uWj.js";import"./RSPContexts-DVGGaWhm.js";import"./usePreventScroll-B_jZxvVS.js";import"./useLocalizedStringFormatter-zwC8H8KM.js";import"./VisuallyHidden-S4eak3vu.js";import"./Text-BN8FYGRk.js";import"./OverlayContext-CQkNAI0D.js";import"./ScrollShadowContainer-32zcS5Mw.js";import"./Typography-B_dK-jVM.js";import"./index-BUbIWl_8.js";import"./IconButton-CgZ2Q5kd.js";function n(i){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...i.components};return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:a}),`
+`,t.jsx(o.h1,{id:"iconbuttonmenu",children:"IconButtonMenu"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(r,{of:m}),`
+`,t.jsx(s,{of:m}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-icons",children:"With icons"}),`
+`,t.jsx(r,{of:c}),`
+`,t.jsx(o.h3,{id:"placement-left",children:"Placement left"}),`
+`,t.jsx(r,{of:h})]})}function ot(i={}){const{wrapper:o}={...p(),...i.components};return o?t.jsx(o,{...i,children:t.jsx(n,{...i})}):n(i)}export{ot as default};

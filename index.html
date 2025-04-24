@@ -74,13 +74,47 @@
       <!-- Favicon icon -->
 <link rel="icon" href="./boi_favicon.svg" />
 
-<!-- Style the svg icons in the storybook menu -->
 <style>
+  /* Style the list items in the storybook nav menu */
+  .sidebar-item {
+    background-color: unset !important;
+    color: #0000ff !important;
+    font-family: "OpenSans-SemiBold" !important;
+  }
+  .sidebar-item:hover {
+    background-color: unset !important;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+  }
+  .sidebar-item[data-selected="true"] {
+    background-color: #00067b !important;
+    color: white !important;
+  }
+  .sidebar-subheading-action {
+    display: none !important;
+  }
+
+  /* Style the svg icons in the storybook nav menu */
   .sidebar-item svg {
-    color: #333333;
+    color: #0000ff;
   }
   .sidebar-item[data-selected="true"] svg {
     color: white;
+  }
+
+  /* Style the solas image in the top left of the page */
+  .sidebar-header {
+    padding-left: 0 !important;
+    align-items: flex-start !important;
+  }
+  .sidebar-header div:first-of-type {
+    margin-right: 0;
+  }
+  img[src*="solas.svg"] {
+    margin: auto;
+    width: 100%;
+    max-width: 220px !important;
   }
 </style>
  

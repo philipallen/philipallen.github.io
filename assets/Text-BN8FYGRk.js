@@ -1,0 +1,1 @@
+import{a as c}from"./utils-gyFJKyBV.js";import{r as a,e as f}from"./index-KmaxkdDD.js";const n=a.createContext({}),x=a.forwardRef(function(e,t){[e,t]=c(e,t,n);let{elementType:r="span",...o}=e;return f.createElement(r,{className:"react-aria-Text",...o,ref:t})});export{x as $,n as a};
