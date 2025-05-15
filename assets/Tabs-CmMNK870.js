@@ -1,0 +1,12 @@
+import{j as i}from"./jsx-runtime-BkBIjjFT.js";import{useMDXComponents as n}from"./index-CNwVr1BN.js";import{M as s,C as r,a as e}from"./index-DxvrwgRC.js";import{T as a,B as m,D as h,W as d,a as c}from"./Tabs.stories-DaoBXd3R.js";import"./index-KmaxkdDD.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DSDJY_uR.js";import"./index-Ccpfuzew.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-D0csYWE-.js";import"./index-BDdHs4nI.js";import"./Tabs-CyprJDGJ.js";import"./Tabs-CoOgrv01.js";import"./Collection-XH8ulj08.js";import"./Label-B4tzsfJl.js";import"./utils-HuDI8Qn7.js";import"./useFocusRing-sAzOUMLq.js";import"./platform-COItUIJl.js";import"./usePress-BpjTE7Om.js";import"./useEvent-BQn9_lKw.js";import"./scrollIntoView-DfPfi9Ts.js";import"./isScrollable-BSEN4xi5.js";import"./FocusScope-U4VFcwgb.js";import"./useNumberFormatter-0Jg9Jb_k.js";import"./useControlledState-TGcPotj3.js";import"./filterDOMProps-CeZl_uWj.js";import"./useSingleSelectListState-jiLWQ0yE.js";import"./index-BMLrhZi-.js";import"./Select-DGP6Po5Q.js";import"./downshift.esm-BNKeM0Z8.js";import"./extends-DRpakCH_.js";import"./index-DtOTWJJ3.js";import"./index-By1nkff0.js";import"./Select.constants-D58dHOlB.js";import"./InputAlerts-B4c5m-Fy.js";import"./Text-_8HeSx-x.js";import"./InlineAlert-D90BqPFY.js";import"./Typography-Bt5r6amG.js";import"./InputLabelTop-XeLDW8Nw.js";import"./InputLabelTopTooltip-DNSp5FHQ.js";import"./TooltipTrigger-BCl17uPm.js";import"./floating-ui.react-CUiYS8XL.js";import"./Button-rO-PiLt4.js";import"./ProgressBar-CRICwC8y.js";import"./OverlayContext-CQkNAI0D.js";import"./SelectBase-gJ4cPUEU.js";import"./ScrollShadowContainer-4UgAKf34.js";import"./AlertAssociationProps-CEhVpbTc.js";import"./ButtonV2-CJLNMGSM.js";import"./Spinner-CArJdDUu.js";function p(o){const t={h1:"h1",h2:"h2",h3:"h3",...n(),...o.components};return i.jsxs(i.Fragment,{children:[i.jsx(s,{of:a}),`
+`,i.jsx(t.h1,{id:"tabs",children:"Tabs"}),`
+`,i.jsx(t.h2,{id:"properties",children:"Properties"}),`
+`,i.jsx(r,{of:m}),`
+`,i.jsx(e,{of:m}),`
+`,i.jsx(t.h2,{id:"variants",children:"Variants"}),`
+`,i.jsx(t.h3,{id:"disabled",children:"Disabled"}),`
+`,i.jsx(r,{of:h}),`
+`,i.jsx(t.h3,{id:"with-icon",children:"With icon"}),`
+`,i.jsx(r,{of:d}),`
+`,i.jsx(t.h3,{id:"with-heading",children:"With heading"}),`
+`,i.jsx(r,{of:c})]})}function hi(o={}){const{wrapper:t}={...n(),...o.components};return t?i.jsx(t,{...o,children:i.jsx(p,{...o})}):p(o)}export{hi as default};

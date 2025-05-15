@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-BkBIjjFT.js";import{useMDXComponents as p}from"./index-CNwVr1BN.js";import{M as s,C as i,a}from"./index-DxvrwgRC.js";import{S as e,B as n,L as d}from"./StandardModal.stories-BnwLj1w_.js";import"./index-KmaxkdDD.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DSDJY_uR.js";import"./index-Ccpfuzew.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./chunk-WFFRPTHA-LPjJ2Zra.js";import"./v4-CQkTLCs1.js";import"./index-BDdHs4nI.js";import"./index-BMLrhZi-.js";import"./index-By1nkff0.js";import"./Modal-zLqlQ5KS.js";import"./OverlayContext-CQkNAI0D.js";import"./usePreventScroll-DWL7LN1d.js";import"./utils-HuDI8Qn7.js";import"./isScrollable-BSEN4xi5.js";import"./platform-COItUIJl.js";import"./IconButton-BCxVbG4_.js";import"./Typography-Bt5r6amG.js";import"./index-DtOTWJJ3.js";import"./ScrollShadowContainer-4UgAKf34.js";import"./Button-BRporzg-.js";import"./Spinner-CArJdDUu.js";import"./ProgressBar-CRICwC8y.js";import"./Label-B4tzsfJl.js";import"./useNumberFormatter-0Jg9Jb_k.js";import"./filterDOMProps-CeZl_uWj.js";function m(r){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:e}),`
+`,t.jsx(o.h1,{id:"standardmodal",children:"StandardModal"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:n}),`
+`,t.jsx(a,{of:n}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-long-content",children:"With Long Content"}),`
+`,t.jsx(i,{of:d})]})}function H(r={}){const{wrapper:o}={...p(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(m,{...r})}):m(r)}export{H as default};
