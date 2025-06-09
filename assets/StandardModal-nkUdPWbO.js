@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as p}from"./index-BRkUXrbv.js";import{M as s,C as i,a}from"./index-FR6HMXuu.js";import{S as e,B as n,L as d}from"./StandardModal.stories-DePRd-B-.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BPTQCGfm.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-Cf3axooF.js";import"./v4-CQkTLCs1.js";import"./index-CmedeESG.js";import"./index-D1OOBdzz.js";import"./index-Cng6hRot.js";import"./Modal-DXrC6JBZ.js";import"./FocusScope-DImX_wcQ.js";import"./focusSafely-B-zcuC90.js";import"./utils-BPOuYIA2.js";import"./OverlayContext-DE6V0lcf.js";import"./usePreventScroll-fHWX6szo.js";import"./IconButton-ByGO4_d_.js";import"./Typography-BoEAGT7d.js";import"./index-D5asf8ox.js";import"./ScrollShadowContainer-DT7Ke9P_.js";import"./Button-6VeGHLsf.js";import"./Spinner-HmLy65_5.js";import"./ProgressBar-OTHehGJ9.js";import"./Label-CxUBTwi1.js";import"./useNumberFormatter-Be2B0OXy.js";import"./filterDOMProps-CeZl_uWj.js";function m(r){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:e}),`
+`,t.jsx(o.h1,{id:"standardmodal",children:"StandardModal"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:n}),`
+`,t.jsx(a,{of:n}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-long-content",children:"With Long Content"}),`
+`,t.jsx(i,{of:d})]})}function H(r={}){const{wrapper:o}={...p(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(m,{...r})}):m(r)}export{H as default};

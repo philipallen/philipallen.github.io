@@ -1,8 +1,0 @@
-import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as e}from"./index-BRkUXrbv.js";import{M as p,C as i,a as s}from"./index-BOCQyfRd.js";import{M as a,B as m,P as c}from"./Menu.stories-nSOyWZQk.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CHwRmna4.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-CssHJ6ns.js";import"./Menu-DIIv29S7.js";import"./floating-ui.react-DD7SKzjW.js";import"./Collection-C9XxNqm0.js";import"./Label-CxUBTwi1.js";import"./utils-BPOuYIA2.js";import"./useFocusRing-G-z0GAlQ.js";import"./focusSafely-B-zcuC90.js";import"./usePress-N-SZRQyW.js";import"./useEvent-CR-cdJGO.js";import"./FocusScope-DImX_wcQ.js";import"./useNumberFormatter-Be2B0OXy.js";import"./useControlledState-Bw1hdnkP.js";import"./index-COZsQx0K.js";import"./Dialog-D7L8ikGJ.js";import"./Button-DPtumZN7.js";import"./ProgressBar-OTHehGJ9.js";import"./filterDOMProps-CeZl_uWj.js";import"./RSPContexts-v-WQ8S-5.js";import"./Text-DC2Lycci.js";import"./usePreventScroll-fHWX6szo.js";import"./VisuallyHidden-BNZM_wZC.js";import"./OverlayContext-DE6V0lcf.js";import"./ScrollShadowContainer-C2NUBgcp.js";function n(r){const o={h1:"h1",h2:"h2",h3:"h3",...e(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
-`,t.jsx(o.h1,{id:"menu",children:"Menu"}),`
-`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
-`,t.jsx(i,{of:m}),`
-`,t.jsx(s,{of:m}),`
-`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
-`,t.jsx(o.h3,{id:"placement-left",children:"Placement left"}),`
-`,t.jsx(i,{of:c})]})}function N(r={}){const{wrapper:o}={...e(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(n,{...r})}):n(r)}export{N as default};
