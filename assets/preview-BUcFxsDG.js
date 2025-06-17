@@ -1,0 +1,10 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{c as m,B as p,d as h,e as g,f as u,g as l}from"./index-D1OOBdzz.js";import"./preview-D3aFibMt.js";import"./DocsRenderer-CFRXHY34-DgAaPnB-.js";import{D as b,U as f}from"./index-3ccC4d9E.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DJr9brCM.js";import"./react-18-CI58fzid.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";__STORYBOOK_MODULE_PREVIEW_API__;const{light:{color:s}}=l("boi"),{light:{color:i}}=l("newIreland"),k=(e,{globals:o})=>t.jsx(u,{brandTheme:`${o.brand}::${o.theme}`,children:t.jsx(e,{})}),y=(e,{globals:o})=>{const n=o.brand,a=o.theme;let r;n==="boi"&&a==="dark"&&(r=s.dmPrimary),n==="boi"&&a==="light"&&(r=s.groundGrey),n==="newIreland"&&a==="dark"&&(r=i.dmPrimary),n==="newIreland"&&a==="light"&&(r=i.sandGrey);const c=`
+    /* mdx docs canvas */
+    .docs-story {
+      background-color: ${r} !important
+    }
+    /* preview page */
+    .sb-main-padded {
+      background-color: ${r} !important
+    }
+  `;return t.jsxs(t.Fragment,{children:[t.jsx("style",{children:c}),t.jsx(e,{})]})},d={boi:"Bank of Ireland",newIreland:"New Ireland",light:"Light theme",dark:"Dark theme"},$={globalTypes:{brand:{description:"Global brand",defaultValue:m,toolbar:{icon:"globe",dynamicTitle:!0,title:"Brand",items:p.flatMap(e=>({title:d[e],value:e}))}},theme:{description:"Global theme",defaultValue:h,toolbar:{icon:"paintbrush",dynamicTitle:!0,title:"Theme",items:g(global.brand).filter(e=>e!=="pride").flatMap(e=>({title:d[e],value:e}))}}},parameters:{docs:{container:({children:e,context:o})=>t.jsx(b,{context:o,children:t.jsx(f,{children:e})})},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}},options:{storySort:{order:["About Solas",["Introduction","Brands","*","Developer docs",["react-components","react-design-tokens","design-tokens","fonts","icons","react-icons","country-assets","react-country-assets"],"Changelogs",["react-components","react-design-tokens","design-tokens"]],"*"]}}},decorators:[k,y]};export{$ as default};
