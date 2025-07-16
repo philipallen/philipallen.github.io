@@ -1,0 +1,11 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as m}from"./index-BRkUXrbv.js";import{M as p,C as i,a as s}from"./index-BUjMt0e0.js";import{I as a,B as n,W as c,P as h}from"./IconButtonMenuV2.stories-B0Y8G1S_.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-QWjLwNRX.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-Cf3axooF.js";import"./v4-CQkTLCs1.js";import"./index-WLaP1tkh.js";import"./index-hDdRnVWP.js";import"./index-BHlkTKmU.js";import"./MenuV2-B6miV0kG.js";import"./Dialog-CLGWj2OB.js";import"./Button-DPtumZN7.js";import"./utils-BPOuYIA2.js";import"./ProgressBar-OTHehGJ9.js";import"./Label-CxUBTwi1.js";import"./useNumberFormatter-Be2B0OXy.js";import"./filterDOMProps-CeZl_uWj.js";import"./usePress-N-SZRQyW.js";import"./focusSafely-B-zcuC90.js";import"./useFocusRing-G-z0GAlQ.js";import"./RSPContexts-v-WQ8S-5.js";import"./Collection-Bn5P0R-H.js";import"./useEvent-CR-cdJGO.js";import"./FocusScope-DImX_wcQ.js";import"./useControlledState-Bw1hdnkP.js";import"./Text-DC2Lycci.js";import"./usePreventScroll-XlKO3Wry.js";import"./VisuallyHidden-BNZM_wZC.js";import"./ScrollShadow.hooks-Yaq7MoTD.js";import"./OverlayContext-DE6V0lcf.js";import"./Typography-BeL7-j70.js";import"./IconButtonV2-ZPVEghNH.js";function e(r){const o={h1:"h1",h2:"h2",h3:"h3",p:"p",...m(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
+`,t.jsx(o.h1,{id:"iconbuttonmenuv2",children:"IconButtonMenuV2"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsxs(o.p,{children:["For a complete list of available props, please refer to the React Aria ",t.jsx("a",{href:"https://react-spectrum.adobe.com/react-aria/Menu.html#props",className:"boi-mdx-link",target:"_blank",children:"documentation"}),"."]}),`
+`,t.jsx(i,{of:n}),`
+`,t.jsx(s,{of:n}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-icons",children:"With icons"}),`
+`,t.jsx(i,{of:c}),`
+`,t.jsx(o.h3,{id:"placement-left",children:"Placement left"}),`
+`,t.jsx(i,{of:h})]})}function U(r={}){const{wrapper:o}={...m(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(e,{...r})}):e(r)}export{U as default};
