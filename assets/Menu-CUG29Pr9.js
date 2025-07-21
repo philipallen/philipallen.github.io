@@ -1,0 +1,9 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as m}from"./index-BRkUXrbv.js";import{M as p,C as i,a as s}from"./index-qnTEHtDb.js";import{D as a}from"./index-DlgNzAt3.js";import{M as c,B as e,P as d}from"./Menu.stories-0nw-iCw0.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BzBru7np.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-WLaP1tkh.js";import"./Menu-DHJXNiEz.js";import"./floating-ui.react-DD7SKzjW.js";import"./Collection-DeW_zP-L.js";import"./Label-CxUBTwi1.js";import"./utils-BPOuYIA2.js";import"./useFocusRing-G-z0GAlQ.js";import"./focusSafely-B-zcuC90.js";import"./usePress-N-SZRQyW.js";import"./useEvent-CR-cdJGO.js";import"./FocusScope-DImX_wcQ.js";import"./useNumberFormatter-Be2B0OXy.js";import"./useControlledState-Bw1hdnkP.js";import"./index-BHlkTKmU.js";import"./Dialog-fZIrdnKw.js";import"./Button-DPtumZN7.js";import"./ProgressBar-OTHehGJ9.js";import"./filterDOMProps-CeZl_uWj.js";import"./RSPContexts-v-WQ8S-5.js";import"./Text-DC2Lycci.js";import"./usePreventScroll-XlKO3Wry.js";import"./VisuallyHidden-BNZM_wZC.js";import"./OverlayContext-DE6V0lcf.js";import"./ScrollShadowContainer-CEKiDQeX.js";function n(r){const o={h1:"h1",h2:"h2",h3:"h3",...m(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:c}),`
+`,t.jsx(o.h1,{id:"menu-deprecated",children:"Menu (deprecated)"}),`
+`,t.jsx(a,{replacementComponent:"MenuV2"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:e}),`
+`,t.jsx(s,{of:e}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"placement-left",children:"Placement left"}),`
+`,t.jsx(i,{of:d})]})}function O(r={}){const{wrapper:o}={...m(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(n,{...r})}):n(r)}export{O as default};

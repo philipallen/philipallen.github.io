@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as n}from"./index-BRkUXrbv.js";import{M as p,C as i,a as e}from"./index-qnTEHtDb.js";import{B as a,a as m,D as d}from"./ButtonTabs.stories-CsZHVRFN.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BzBru7np.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-Cf3axooF.js";import"./v4-CQkTLCs1.js";import"./index-WLaP1tkh.js";import"./Tabs-jx_MHFSE.js";import"./Collection-DeW_zP-L.js";import"./Label-CxUBTwi1.js";import"./utils-BPOuYIA2.js";import"./useFocusRing-G-z0GAlQ.js";import"./focusSafely-B-zcuC90.js";import"./usePress-N-SZRQyW.js";import"./useEvent-CR-cdJGO.js";import"./FocusScope-DImX_wcQ.js";import"./useNumberFormatter-Be2B0OXy.js";import"./useControlledState-Bw1hdnkP.js";import"./filterDOMProps-CeZl_uWj.js";import"./useSingleSelectListState-CSsfpfh3.js";import"./index-BHlkTKmU.js";import"./Typography-BTmT2kbZ.js";import"./index-DlgNzAt3.js";import"./Button-Ctq0oru7.js";import"./Spinner-CBn8Y0SD.js";import"./ProgressBar-OTHehGJ9.js";function s(r){const o={h1:"h1",h2:"h2",h3:"h3",...n(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
+`,t.jsx(o.h1,{id:"buttontabs",children:"ButtonTabs"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:m}),`
+`,t.jsx(e,{of:m}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"disabled-items",children:"Disabled items"}),`
+`,t.jsx(i,{of:d})]})}function H(r={}){const{wrapper:o}={...n(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(s,{...r})}):s(r)}export{H as default};
