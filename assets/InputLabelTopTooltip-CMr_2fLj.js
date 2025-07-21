@@ -1,1 +1,0 @@
-import{j as o}from"./jsx-runtime-sfY7k0Xq.js";import{T as t}from"./TooltipPopoverV2-gQmdW-DN.js";import{I as i}from"./InlineTooltipIconButtonV2-DX_QV84C.js";function m(n){const{iconButtonProps:r,otherIconButtonProps:s,contentProps:p}=n;return o.jsx(t,{children:o.jsxs(t.Trigger,{children:[o.jsx(i,{...r,...s}),o.jsx(t.Content,{...p})]})})}export{m as I};
