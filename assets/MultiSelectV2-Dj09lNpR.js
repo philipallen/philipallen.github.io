@@ -1,0 +1,12 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as e}from"./index-BRkUXrbv.js";import{M as s,C as o,a as n}from"./index-Crcn8IDm.js";import{M as a,B as m,W as h,a as l,I as c}from"./MultiSelectV2.stories-DYWtRu7x.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-yFprN-zb.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-iP1lhtUC.js";import"./index-CoGc3U6X.js";import"./ListBox-BTSqjZ8H.js";import"./Collection-Bn5P0R-H.js";import"./Label-CxUBTwi1.js";import"./utils-BPOuYIA2.js";import"./useFocusRing-G-z0GAlQ.js";import"./focusSafely-B-zcuC90.js";import"./usePress-N-SZRQyW.js";import"./useEvent-CR-cdJGO.js";import"./FocusScope-DImX_wcQ.js";import"./useNumberFormatter-Be2B0OXy.js";import"./useControlledState-Bw1hdnkP.js";import"./Dialog-CLGWj2OB.js";import"./Button-DPtumZN7.js";import"./ProgressBar-OTHehGJ9.js";import"./filterDOMProps-CeZl_uWj.js";import"./RSPContexts-v-WQ8S-5.js";import"./Text-DC2Lycci.js";import"./usePreventScroll-XlKO3Wry.js";import"./VisuallyHidden-BNZM_wZC.js";import"./useListState-7Y8jYvYy.js";import"./index-5VPm3mt9.js";import"./ScrollShadow.hooks-cpOhD3p1.js";import"./Select.constants-D58dHOlB.js";import"./InputAlerts-CqET0I5r.js";import"./InlineAlert-D7LpaNMB.js";import"./index-CA_uD5kO.js";import"./Typography-Fd9Ks9lL.js";import"./InputLabelTopV2-C0uvm5sO.js";import"./InputLabelTopTooltip-CIKglb3p.js";import"./TooltipPopoverV2-DI14IWmz.js";import"./InlineTooltipIconButtonV2-BiNcN6aL.js";import"./Tooltip-B9i0pIMH.js";import"./OverlayContext-DE6V0lcf.js";import"./CheckboxBase-CyF2npPN.js";import"./floating-ui.react-DD7SKzjW.js";import"./ReactAriaProviders-CFG_2kIo.js";import"./Popover-BBY813ed.js";import"./OuterField-u7hPFJdi.js";function p(r){const i={h1:"h1",h2:"h2",h3:"h3",...e(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:a}),`
+`,t.jsx(i.h1,{id:"multiselectv2",children:"MultiSelectV2"}),`
+`,t.jsx(i.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(o,{of:m}),`
+`,t.jsx(n,{of:m}),`
+`,t.jsx(i.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(i.h3,{id:"with-error",children:"With error"}),`
+`,t.jsx(o,{of:h}),`
+`,t.jsx(i.h3,{id:"with-label",children:"With label"}),`
+`,t.jsx(o,{of:l}),`
+`,t.jsx(i.h3,{id:"items-with-custom-aria-label",children:"Items with custom aria-label"}),`
+`,t.jsx(o,{of:c})]})}function at(r={}){const{wrapper:i}={...e(),...r.components};return i?t.jsx(i,{...r,children:t.jsx(p,{...r})}):p(r)}export{at as default};
