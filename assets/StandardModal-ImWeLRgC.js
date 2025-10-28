@@ -1,8 +1,0 @@
-import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as p}from"./index-BRkUXrbv.js";import{M as s,C as i,a}from"./index-Crcn8IDm.js";import{S as e,B as n,L as d}from"./StandardModal.stories-ob2UEMGi.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-yFprN-zb.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-Cf3axooF.js";import"./v4-CQkTLCs1.js";import"./index-CoGc3U6X.js";import"./index-5VPm3mt9.js";import"./index-CA_uD5kO.js";import"./Modal-ClA-nqQz.js";import"./FocusScope-DImX_wcQ.js";import"./focusSafely-B-zcuC90.js";import"./utils-BPOuYIA2.js";import"./OverlayContext-DE6V0lcf.js";import"./usePreventScroll-XlKO3Wry.js";import"./IconButton-H-VOMIlI.js";import"./Typography-Fd9Ks9lL.js";import"./ScrollShadowContainer-BmGeMhnn.js";import"./Button-ACFGhnt6.js";import"./Spinner-Dt7xEm7_.js";import"./ProgressBar-OTHehGJ9.js";import"./Label-CxUBTwi1.js";import"./useNumberFormatter-Be2B0OXy.js";import"./filterDOMProps-CeZl_uWj.js";function m(r){const o={h1:"h1",h2:"h2",h3:"h3",...p(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:e}),`
-`,t.jsx(o.h1,{id:"standardmodal",children:"StandardModal"}),`
-`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
-`,t.jsx(i,{of:n}),`
-`,t.jsx(a,{of:n}),`
-`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
-`,t.jsx(o.h3,{id:"with-long-content",children:"With Long Content"}),`
-`,t.jsx(i,{of:d})]})}function G(r={}){const{wrapper:o}={...p(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(m,{...r})}):m(r)}export{G as default};
