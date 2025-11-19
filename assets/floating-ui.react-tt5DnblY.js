@@ -1,0 +1,1 @@
+import{r as n}from"./index-CcKhGcwW.js";import"./jsx-runtime-sfY7k0Xq.js";import"./index-uaANFLeC.js";function l(e){return n.useMemo(()=>e.every(r=>r==null)?null:r=>{e.forEach(t=>{typeof t=="function"?t(r):t!=null&&(t.current=r)})},e)}export{l as u};

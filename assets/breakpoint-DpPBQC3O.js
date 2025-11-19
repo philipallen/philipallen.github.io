@@ -1,0 +1,20 @@
+import{j as o}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as i}from"./index-BRkUXrbv.js";import{M as n,C as s}from"./index-O_i3ukAC.js";import{B as p,a as m}from"./breakpoint.stories-PV1LBTxQ.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-XrG4CbpW.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-5VPm3mt9.js";import"./index-Bndd801g.js";import"./index-HXCmP3Qs.js";import"./index-jIEI4ct_.js";import"./Text-NX4aVxts.js";import"./utils-2-3EihAd.js";import"./Button-CUYx7hLe.js";import"./ProgressBar-D-5At-XA.js";import"./Label-CZfe87EJ.js";import"./useFocusRing-UK40PMEA.js";import"./Heading-Bxe_L4Pz.js";import"./Dialog-BBveVv4I.js";import"./Collection-D5d6PqKy.js";import"./useEvent-CL6PvOsD.js";import"./FocusScope-Ck7OBOj_.js";import"./useControlledState-Bw1hdnkP.js";import"./usePreventScroll-H9RN8w3y.js";import"./VisuallyHidden-MKMaY1dA.js";import"./useFilter-C5YRLfB_.js";import"./Group-2RCNFabS.js";import"./Input-GVbW0m5a.js";import"./Form-59FgyCDB.js";import"./useFormReset-CdUqESZ_.js";import"./useSpinButton-B0EBQuRA.js";import"./Checkbox-C_udBPW0.js";import"./useToggle-BXc8dhrZ.js";import"./useToggleState-eLSQACY8.js";import"./ComboBox-CCOnGHQA.js";import"./ListBox-DAs4lUDL.js";import"./useListState-Bei5Go53.js";import"./useSingleSelectListState-DUJz9Kva.js";import"./useTextField-BgBMFPmL.js";import"./Disclosure-5N7oJD32.js";import"./NumberField-BbWuBIXX.js";import"./RadioGroup-C7_x1g-Q.js";import"./SearchField-DHCSeMpx.js";import"./Select-EXq63j9m.js";import"./Slider-BilFR3HQ.js";import"./Switch-DPSedUEs.js";import"./Tabs-DxAfl9t9.js";import"./TextField-AdpVHhIs.js";import"./ToggleButton-DpBMIF1a.js";import"./Tooltip-BmXECRlm.js";import"./index-Bt5smqGw.js";import"./chunk-4HCWVY2M-B1ssy2Ob.js";import"./floating-ui.react-tt5DnblY.js";import"./immer-VJu7bq0k.js";function r(e){const t={code:"code",h1:"h1",h2:"h2",h3:"h3",p:"p",pre:"pre",...i(),...e.components};return o.jsxs(o.Fragment,{children:[o.jsx(n,{of:p}),`
+`,o.jsx(t.h1,{id:"breakpoints",children:"Breakpoints"}),`
+`,o.jsx(t.h2,{id:"how-to-use",children:"How to use"}),`
+`,o.jsx(t.p,{children:"An example of usage might be:"}),`
+`,o.jsx(t.pre,{children:o.jsx(t.code,{className:"language-jsx",children:`
+@media (min-width: \${breakpoint.tablet.min}) {
+    // tablet styles here
+}
+
+`})}),`
+`,o.jsx(t.h3,{id:"react-project",children:"React project"}),`
+`,o.jsxs(t.p,{children:["To understand how to use breakpoints in your React project, see ",o.jsx("a",{href:"./?path=/docs/about-solas-developer-docs-react-design-tokens--docs#using-design-tokens",className:"boi-mdx-link",children:`
+the react-design-tokens instructions`})]}),`
+`,o.jsxs(t.p,{children:["You will be able to use ",o.jsx(t.code,{children:"breakpoint"})," from the ",o.jsx(t.code,{children:"tokens"})," property."]}),`
+`,o.jsx(t.h3,{id:"non-react-project",children:"Non-React project"}),`
+`,o.jsxs(t.p,{children:["To understand how to use breakpoints in your non-React project, see ",o.jsx("a",{href:"./?path=/docs/about-solas-developer-docs-design-tokens--docs#web-tokens",className:"boi-mdx-link",children:`
+the design-tokens instructions`})]}),`
+`,o.jsx(t.h2,{id:"list-of-values",children:"List of values"}),`
+`,o.jsx(t.p,{children:"Below is the list of breakpoint values available to use."}),`
+`,o.jsx(s,{of:m,sourceState:"none"})]})}function ho(e={}){const{wrapper:t}={...i(),...e.components};return t?o.jsx(t,{...e,children:o.jsx(r,{...e})}):r(e)}export{ho as default};
