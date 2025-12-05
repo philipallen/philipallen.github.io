@@ -1,0 +1,9 @@
+import{j as t}from"./jsx-runtime-sfY7k0Xq.js";import{useMDXComponents as m}from"./index-BRkUXrbv.js";import{M as p,C as e,a as s}from"./index-Cc2OBFLd.js";import{M as a,B as i,P as c}from"./Menu.stories-CMX1Onl6.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-CGicjiFl.js";import"./index-uaANFLeC.js";import"./index-CJyPbrN5.js";import"./index-DrFu-skq.js";import"./index-Cf3axooF.js";import"./v4-CQkTLCs1.js";import"./Menu-CrKxj9ds.js";import"./Dialog-CYmhaE2o.js";import"./Button-DHrRVfeM.js";import"./utils-mOq_cyPo.js";import"./ProgressBar-MIXQhSCM.js";import"./Label-8khcU0p_.js";import"./useFocusRing-BhJTmJfA.js";import"./Text-D9_Nw8NF.js";import"./Collection-CJarBQHz.js";import"./useEvent-DG0nK5SM.js";import"./FocusScope-BJNVAOd7.js";import"./useControlledState-Bw1hdnkP.js";import"./usePreventScroll-CWak9jJX.js";import"./VisuallyHidden-CAvdYakS.js";import"./index-ChacPRz0.js";import"./index-Dwsyfx_g.js";import"./ScrollShadow.hooks-ggsIV_6p.js";import"./OverlayContext-DE6V0lcf.js";import"./Pressable-eToF6ols.js";function n(o){const r={h1:"h1",h2:"h2",h3:"h3",p:"p",...m(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
+`,t.jsx(r.h1,{id:"menu",children:"Menu"}),`
+`,t.jsx(r.h2,{id:"properties",children:"Properties"}),`
+`,t.jsxs(r.p,{children:["For a complete list of available props, please refer to the React Aria ",t.jsx("a",{href:"https://react-spectrum.adobe.com/react-aria/Menu.html#props",className:"boi-mdx-link",target:"_blank",children:"documentation"}),"."]}),`
+`,t.jsx(e,{of:i}),`
+`,t.jsx(s,{of:i}),`
+`,t.jsx(r.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(r.h3,{id:"placement-left",children:"Placement left"}),`
+`,t.jsx(e,{of:c})]})}function H(o={}){const{wrapper:r}={...m(),...o.components};return r?t.jsx(r,{...o,children:t.jsx(n,{...o})}):n(o)}export{H as default};
