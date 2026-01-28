@@ -1,0 +1,12 @@
+import{j as i}from"./jsx-runtime-Blucd9Qg.js";import{useMDXComponents as n}from"./index-BRkUXrbv.js";import{M as s,C as r,a as e}from"./index-DRnKzhQt.js";import{T as a,B as m,D as h,W as d,a as c}from"./Tabs.stories-DX7boU-y.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-DJIKmuI9.js";import"./index-CbrIw9sE.js";import"./index-Bhelpi4i.js";import"./index-DrFu-skq.js";import"./index-BQWhUlWo.js";import"./index-Cs4xJi_A.js";import"./Tabs-DeCxvFEr.js";import"./Tabs-B0Hcc2j2.js";import"./SelectionIndicator-Dlx5oX8p.js";import"./useFocusRing-_PMeCXZC.js";import"./utils-CrCrZF7Z.js";import"./useEvent-FCKskfoF.js";import"./FocusScope-BGa3S4Dp.js";import"./ProgressBar-Cj3OymJH.js";import"./Label-GNbXzScb.js";import"./index-B5pQ5BfA.js";import"./useControlledState-CqLB86LT.js";import"./useListState-CrMKVmZZ.js";import"./useSingleSelectListState-C3iJDoOM.js";import"./Select-BQRgNJGW.js";import"./ListBox-CVF3aeug.js";import"./Dialog-BnhsNzxp.js";import"./Button-T8IefSzn.js";import"./Text-CoyfJyUy.js";import"./usePreventScroll-BIkMZHcC.js";import"./VisuallyHidden-CYAIBC6z.js";import"./Select-DdyyAk9c.js";import"./Form-8hXZHMTX.js";import"./useFormReset-BxBxhEUg.js";import"./Select.styled-CG37go6-.js";import"./ScrollShadow.hooks-Bpy3mnkh.js";import"./OuterField-DpLldcjm.js";import"./Typography-TwrAENUo.js";import"./index-NgCCK6aN.js";import"./Popover-CoEOwdgG.js";import"./index-B_KGh3jf.js";import"./OverlayContext-BmgfW47V.js";import"./ListBoxItem-BoWXirT0.js";import"./ReactAriaProviders-UpnGrWCN.js";import"./InputLabelTop-DOLgWCXd.js";import"./InlineAlert-DVKGKMpB.js";import"./TooltipPopover-DZnWfarH.js";import"./InlineTooltipIconButton-z-ofb4Ns.js";import"./Tooltip-CRkl3drz.js";import"./Button-uG_7Cu-8.js";import"./Spinner-CpDtTGyJ.js";function p(o){const t={h1:"h1",h2:"h2",h3:"h3",...n(),...o.components};return i.jsxs(i.Fragment,{children:[i.jsx(s,{of:a}),`
+`,i.jsx(t.h1,{id:"tabs",children:"Tabs"}),`
+`,i.jsx(t.h2,{id:"properties",children:"Properties"}),`
+`,i.jsx(r,{of:m}),`
+`,i.jsx(e,{of:m}),`
+`,i.jsx(t.h2,{id:"variants",children:"Variants"}),`
+`,i.jsx(t.h3,{id:"disabled-items",children:"Disabled items"}),`
+`,i.jsx(r,{of:h}),`
+`,i.jsx(t.h3,{id:"with-icon",children:"With icon"}),`
+`,i.jsx(r,{of:d}),`
+`,i.jsx(t.h3,{id:"with-heading",children:"With heading"}),`
+`,i.jsx(r,{of:c})]})}function di(o={}){const{wrapper:t}={...n(),...o.components};return t?i.jsx(t,{...o,children:i.jsx(p,{...o})}):p(o)}export{di as default};
