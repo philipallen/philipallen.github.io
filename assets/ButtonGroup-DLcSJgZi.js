@@ -1,0 +1,13 @@
+import{j as t}from"./jsx-runtime-Blucd9Qg.js";import{useMDXComponents as m}from"./index-BRkUXrbv.js";import{M as e,C as r,a as s}from"./index-D59A9RQg.js";import{B as a,a as n,W as h,b as l,I as c}from"./ButtonGroup.stories-Do8vijkp.js";import"./index-CcKhGcwW.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BCimKwaU.js";import"./index-CbrIw9sE.js";import"./index-Bhelpi4i.js";import"./index-DrFu-skq.js";import"./index-t7j5zUOh.js";import"./index-8wM7OKQ9.js";import"./ToggleButton-Dp7mkCC5.js";import"./utils-CrCrZF7Z.js";import"./SelectionIndicator-DbP0QVLC.js";import"./useFocusRing-_PMeCXZC.js";import"./useEvent-FCKskfoF.js";import"./FocusScope-BGa3S4Dp.js";import"./ProgressBar-Cj3OymJH.js";import"./Label-GNbXzScb.js";import"./useControlledState-CqLB86LT.js";import"./Button-T8IefSzn.js";import"./useToggleState-D0ZqcaHP.js";import"./Typography-0nEi_BJ1.js";import"./index-NgCCK6aN.js";import"./ReactAriaProviders-UpnGrWCN.js";import"./Text-CoyfJyUy.js";import"./InputLabelTop-CeW3syPk.js";import"./InlineAlert-DuLzuwYY.js";import"./index-B_KGh3jf.js";import"./TooltipPopover-BwYFqXH_.js";import"./Dialog-hTizX22e.js";import"./usePreventScroll-BIkMZHcC.js";import"./VisuallyHidden-CYAIBC6z.js";import"./InlineTooltipIconButton-1ExgSWDq.js";import"./Tooltip-BDEcZQkA.js";import"./OverlayContext-BmgfW47V.js";function p(i){const o={h1:"h1",h2:"h2",h3:"h3",p:"p",...m(),...i.components};return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:a}),`
+`,t.jsx(o.h1,{id:"buttongroup",children:"ButtonGroup"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsxs(o.p,{children:["For a complete list of available props, please refer to the React Aria ",t.jsx("a",{href:"https://react-spectrum.adobe.com/react-aria/ToggleButtonGroup.html#props",className:"boi-mdx-link",target:"_blank",children:"documentation"}),"."]}),`
+`,t.jsx(r,{of:n}),`
+`,t.jsx(s,{of:n}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"with-label",children:"With label"}),`
+`,t.jsx(r,{of:h}),`
+`,t.jsx(o.h3,{id:"with-hint",children:"With hint"}),`
+`,t.jsx(r,{of:l}),`
+`,t.jsx(o.h3,{id:"invalid",children:"Invalid"}),`
+`,t.jsx(r,{of:c})]})}function U(i={}){const{wrapper:o}={...m(),...i.components};return o?t.jsx(o,{...i,children:t.jsx(p,{...i})}):p(i)}export{U as default};
