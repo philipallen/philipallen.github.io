@@ -1,0 +1,1 @@
+import{$ as n}from"./useControlledState-n_cs0odp.js";import{r as S}from"./index-BVaTkfsr.js";function s(e={}){let{isReadOnly:l}=e,[t,c]=n(e.isSelected,e.defaultSelected||!1,e.onChange),[d]=S.useState(t);function a(i){l||c(i)}function f(){l||c(!t)}return{isSelected:t,defaultSelected:e.defaultSelected??d,setSelected:a,toggle:f}}export{s as $};
