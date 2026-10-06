@@ -1,1 +1,0 @@
-import{j as s}from"./jsx-runtime-BjG_zV1W.js";import{r}from"./index-BVaTkfsr.js";const t=r.createContext({portalElement:void 0}),i=e=>{const{portalElement:o,children:n}=e;return s.jsx(t.Provider,{value:{portalElement:o},children:n})};function u(){return r.useContext(t)}export{i as O,u};
