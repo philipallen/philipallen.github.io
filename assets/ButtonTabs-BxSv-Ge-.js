@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-BjG_zV1W.js";import{useMDXComponents as n}from"./index-CR-ysAsT.js";import{M as p,C as i,a as e}from"./index-CbdW0LDH.js";import{B as a,a as m,D as d}from"./ButtonTabs.stories-Brxo7ylp.js";import"./index-BVaTkfsr.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BvPi49FF.js";import"./index-CNGsMlyN.js";import"./index-Bhelpi4i.js";import"./index-Bhqu_tAV.js";import"./index-B-lxVbXh.js";import"./v4-CtRu48qb.js";import"./index-ba3HtoI3.js";import"./Tabs-T_oaD4Iz.js";import"./filterDOMProps-ZE2JjJ7r.js";import"./mergeProps-BolikptB.js";import"./animation-DpHZaip0.js";import"./useHover-s6QApvKh.js";import"./useFocusWithin-B2y0-g2l.js";import"./index-DbtYIglS.js";import"./FocusScope-BGzDYkwk.js";import"./useEvent-CT-Jzc9H.js";import"./ProgressBar-Blkxmfkf.js";import"./useLabel-QzyIfmsE.js";import"./useControlledState-B8koUYCB.js";import"./useListState-BRtWQETT.js";import"./Typography-JwzeacV5.js";import"./index-Doj3HQ5r.js";import"./Button-DGE94ChQ.js";import"./Button-BzFa2UX0.js";import"./Spinner-Dvr8aHqm.js";function s(r){const o={h1:"h1",h2:"h2",h3:"h3",...n(),...r.components};return t.jsxs(t.Fragment,{children:[t.jsx(p,{of:a}),`
+`,t.jsx(o.h1,{id:"buttontabs",children:"ButtonTabs"}),`
+`,t.jsx(o.h2,{id:"properties",children:"Properties"}),`
+`,t.jsx(i,{of:m}),`
+`,t.jsx(e,{of:m}),`
+`,t.jsx(o.h2,{id:"variants",children:"Variants"}),`
+`,t.jsx(o.h3,{id:"disabled-items",children:"Disabled items"}),`
+`,t.jsx(i,{of:d})]})}function G(r={}){const{wrapper:o}={...n(),...r.components};return o?t.jsx(o,{...r,children:t.jsx(s,{...r})}):s(r)}export{G as default};
