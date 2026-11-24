@@ -1,1 +1,0 @@
-import{b as o}from"./useFocusWithin-B2y0-g2l.js";import{d as $}from"./useHover-s6QApvKh.js";import{r as u}from"./index-BVaTkfsr.js";function b(f,r,t,a){let c=$(t),e=t==null;u.useEffect(()=>{if(!(e||f.current==null))return o(f.current,r,c,a)},[f,r,a,e])}export{b as $};

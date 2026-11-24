@@ -1,5 +1,0 @@
-import{j as o}from"./jsx-runtime-BjG_zV1W.js";import{useMDXComponents as e}from"./index-CR-ysAsT.js";import{M as s,C as m,a as p}from"./index-CbdW0LDH.js";import{S as a,B as n}from"./Spinner.stories-9f3Kq_hn.js";import"./index-BVaTkfsr.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BvPi49FF.js";import"./index-CNGsMlyN.js";import"./index-Bhelpi4i.js";import"./index-Bhqu_tAV.js";import"./index-DbtYIglS.js";import"./index-Doj3HQ5r.js";import"./Spinner-Dvr8aHqm.js";import"./ProgressBar-Blkxmfkf.js";import"./filterDOMProps-ZE2JjJ7r.js";import"./mergeProps-BolikptB.js";import"./useLabel-QzyIfmsE.js";function i(t){const r={h1:"h1",h2:"h2",...e(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:a}),`
-`,o.jsx(r.h1,{id:"spinner",children:"Spinner"}),`
-`,o.jsx(r.h2,{id:"properties",children:"Properties"}),`
-`,o.jsx(m,{of:n}),`
-`,o.jsx(p,{of:n})]})}function w(t={}){const{wrapper:r}={...e(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(i,{...t})}):i(t)}export{w as default};

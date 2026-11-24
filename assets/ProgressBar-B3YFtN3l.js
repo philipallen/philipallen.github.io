@@ -1,5 +1,0 @@
-import{j as r}from"./jsx-runtime-BjG_zV1W.js";import{useMDXComponents as i}from"./index-CR-ysAsT.js";import{M as e,C as m,a as p}from"./index-CbdW0LDH.js";import{P as a,B as s}from"./ProgressBar.stories-BrYNDH-9.js";import"./index-BVaTkfsr.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-BvPi49FF.js";import"./index-CNGsMlyN.js";import"./index-Bhelpi4i.js";import"./index-Bhqu_tAV.js";import"./ProgressBar-Blkxmfkf.js";import"./filterDOMProps-ZE2JjJ7r.js";import"./mergeProps-BolikptB.js";import"./useLabel-QzyIfmsE.js";import"./index-DbtYIglS.js";import"./Typography-JwzeacV5.js";import"./index-ba3HtoI3.js";import"./index-Doj3HQ5r.js";function n(o){const t={h1:"h1",h2:"h2",...i(),...o.components};return r.jsxs(r.Fragment,{children:[r.jsx(e,{of:a}),`
-`,r.jsx(t.h1,{id:"progressbar",children:"ProgressBar"}),`
-`,r.jsx(t.h2,{id:"properties",children:"Properties"}),`
-`,r.jsx(m,{of:s}),`
-`,r.jsx(p,{of:s})]})}function w(o={}){const{wrapper:t}={...i(),...o.components};return t?r.jsx(t,{...o,children:r.jsx(n,{...o})}):n(o)}export{w as default};
