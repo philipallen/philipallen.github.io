@@ -1,5 +1,0 @@
-import{j as r}from"./jsx-runtime-BjG_zV1W.js";import{useMDXComponents as i}from"./index-CR-ysAsT.js";import{M as e,C as m,a as p}from"./index-Be1Z4u-t.js";import{P as a,B as s}from"./ProgressBar.stories-DOrLKDND.js";import"./index-BVaTkfsr.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./iframe-Beyf2FrO.js";import"./index-CNGsMlyN.js";import"./index-Bhelpi4i.js";import"./index-Bhqu_tAV.js";import"./ProgressBar-BY0g_ds_.js";import"./filterDOMProps-CtI5tTFi.js";import"./useLabel-vBTPO4wy.js";import"./index-CiimbDfo.js";import"./Typography-BBiZk7wC.js";import"./index-CllsIOLz.js";import"./index-Doj3HQ5r.js";function n(o){const t={h1:"h1",h2:"h2",...i(),...o.components};return r.jsxs(r.Fragment,{children:[r.jsx(e,{of:a}),`
-`,r.jsx(t.h1,{id:"progressbar",children:"ProgressBar"}),`
-`,r.jsx(t.h2,{id:"properties",children:"Properties"}),`
-`,r.jsx(m,{of:s}),`
-`,r.jsx(p,{of:s})]})}function v(o={}){const{wrapper:t}={...i(),...o.components};return t?r.jsx(t,{...o,children:r.jsx(n,{...o})}):n(o)}export{v as default};

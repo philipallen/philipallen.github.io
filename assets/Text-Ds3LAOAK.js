@@ -1,0 +1,1 @@
+import{a as r,b as $,c as o}from"./filterDOMProps-ZE2JjJ7r.js";import{r as b,e as n}from"./index-BVaTkfsr.js";const s=b.createContext({}),d=r(function(e,t){[e,t]=$(e,t,s);let{elementType:a="span",...c}=e,f=o[a];return n.createElement(f,{className:"react-aria-Text",...c,ref:t})});export{d as $,s as a};
